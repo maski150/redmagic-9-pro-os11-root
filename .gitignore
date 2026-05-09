@@ -1,0 +1,13 @@
+backup/
+tmp/
+*.img
+*.bin
+*.elf
+*.mbn
+*.apk
+*.exe
+*.dll
+*.sys
+*.cat
+*.inf
+port_trace.txt
